@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "27a442a1fa232561",
+    "type": "split",
+    "children": [
+      {
+        "id": "c686a91c3a180fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56978800f9fef9b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cb539ad44796007",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f12537b233586c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e1582573262e7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cb35c46c1c1471b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eaf22487247e4ec9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "40b5e366a89df436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd7853ec4d3acc0d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.911842553674884,
+                  "lineSizeMultiplier": 1.35714529137794,
+                  "collapse-forces": false,
+                  "centerStrength": 0.914105861648843,
+                  "repelStrength": 15.6561891515994,
+                  "linkStrength": 0.427172510847895,
+                  "linkDistance": 250,
+                  "scale": 0.5562094293031248,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ad0bb42bca3938d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65c907a800df665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5ffc5a0c48dd93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a78788c59b68daa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e25ab89c5e3ccc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc206f9d0b809d8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "24fbd446268e8930",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "56978800f9fef9b2",
+  "lastOpenFiles": [
+    "Deep Learning/RNN/Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.md",
+    "Deep Learning/RNN/Long Short-Term Memory.md",
+    "Deep Learning/RNN/On the Properties of Neural Machine Translation= Encoder–Decoder Approaches.md",
+    "Deep Learning/RNN/img/Image_1727583705949.png",
+    "论文工作流.md",
+    "Deep Learning/RNN/img/Pasted image 20240926113730.png",
+    "img/Pasted image 20240926122920.png",
+    "img/Pasted image 20240926121814.png",
+    "img/Pasted image 20240926113730.png",
+    "img",
+    "Deep Learning/RNN/img/Pasted image 20240926121814.png",
+    "Deep Learning/RNN/img/Pasted image 20240926122920.png",
+    "Deep Learning/RNN/img/Pasted image 20240927130036.png",
+    "Deep Learning/RNN/img/Pasted image 20240929102725.png",
+    "Deep Learning/RNN/img/Pasted image 20240929104349.png",
+    "Deep Learning/Transformer/Attention Is All You Need.md",
+    "Deep Learning/img",
+    "Deep Learning/RNN/img",
+    "Deep Learning/RNN",
+    "Deep Learning/Transformer",
+    "template/Note.md",
+    "template/Review.md",
+    "Deep Learning/RNN/img/img",
+    "template",
+    "Control",
+    "Deep Learning",
+    "Welcome.md"
+  ]
+}
