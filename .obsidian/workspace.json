@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c686a91c3a180fc8",
+        "id": "638ab54327c54b16",
         "type": "tabs",
         "children": [
           {
-            "id": "56978800f9fef9b2",
+            "id": "b05b860af700d0ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Task Planning/ProgPrompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ProgPrompt"
             }
           }
         ]
@@ -27,6 +33,7 @@
       {
         "id": "29f12537b233586c",
         "type": "tabs",
+        "dimension": 68.45943482224249,
         "children": [
           {
             "id": "b8e1582573262e7c",
@@ -34,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +54,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -66,6 +80,7 @@
       {
         "id": "40b5e366a89df436",
         "type": "tabs",
+        "dimension": 31.540565177757518,
         "children": [
           {
             "id": "fd7853ec4d3acc0d",
@@ -73,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Task Planning/ProgPrompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -95,17 +111,19 @@
                   "repelStrength": 15.6561891515994,
                   "linkStrength": 0.427172510847895,
                   "linkDistance": 250,
-                  "scale": 0.5562094293031248,
+                  "scale": 0.1788981602399173,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of ProgPrompt"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.0026054382324
   },
   "right": {
     "id": "8ad0bb42bca3938d",
@@ -121,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reconstruct Anything/相近工作/Part-level Scene Reconstruction Affords Robot Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +147,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Part-level Scene Reconstruction Affords Robot Interaction"
             }
           },
           {
@@ -137,9 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reconstruct Anything/相近工作/Part-level Scene Reconstruction Affords Robot Interaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Part-level Scene Reconstruction Affords Robot Interaction"
             }
           },
           {
@@ -150,7 +174,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,7 +184,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reconstruct Anything/ACDC- Automated Creation of Digital Cousins for Robust Policy Learning.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ACDC- Automated Creation of Digital Cousins for Robust Policy Learning"
             }
           },
           {
@@ -170,10 +200,13 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,34 +224,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "56978800f9fef9b2",
+  "active": "b05b860af700d0ee",
   "lastOpenFiles": [
-    "Deep Learning/RNN/Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.md",
-    "Deep Learning/RNN/Long Short-Term Memory.md",
-    "Deep Learning/RNN/On the Properties of Neural Machine Translation= Encoder–Decoder Approaches.md",
-    "Deep Learning/RNN/img/Image_1727583705949.png",
-    "论文工作流.md",
-    "Deep Learning/RNN/img/Pasted image 20240926113730.png",
-    "img/Pasted image 20240926122920.png",
-    "img/Pasted image 20240926121814.png",
-    "img/Pasted image 20240926113730.png",
-    "img",
-    "Deep Learning/RNN/img/Pasted image 20240926121814.png",
-    "Deep Learning/RNN/img/Pasted image 20240926122920.png",
-    "Deep Learning/RNN/img/Pasted image 20240927130036.png",
-    "Deep Learning/RNN/img/Pasted image 20240929102725.png",
-    "Deep Learning/RNN/img/Pasted image 20240929104349.png",
-    "Deep Learning/Transformer/Attention Is All You Need.md",
-    "Deep Learning/img",
-    "Deep Learning/RNN/img",
-    "Deep Learning/RNN",
-    "Deep Learning/Transformer",
-    "template/Note.md",
-    "template/Review.md",
-    "Deep Learning/RNN/img/img",
-    "template",
-    "Control",
-    "Deep Learning",
-    "Welcome.md"
+    "Task Planning/Language Models as Zero-Shot Planners= Extracting Actionable Knowledge for Embodied Agents.md",
+    "Task Planning/ProgPrompt.md",
+    "Reconstruct Anything/Some Thoughts Regarding -Reconstruct Anything-.md",
+    "Reconstruct Anything/Scene-LLM.md",
+    "Reconstruct Anything/PointLLM.md",
+    "Reconstruct Anything/OMG-LLaVA.md",
+    "Reconstruct Anything/Moco- Momentum Contrast for Unsupervised Visual Representation Learning.md",
+    "Reconstruct Anything/OK-Robot- What Really Matters in Integrating Open-Knowledge  Models for Robotics.md",
+    "Reconstruct Anything/LERF- Language Embedded Radiance Fields.md",
+    "Reconstruct Anything/Extract Free Dense Labels from CLIP.md",
+    "Reconstruct Anything/ConceptFusion.md",
+    "Reconstruct Anything/PHYSCENE- Physically Interactable 3D Scene Synthesis for Embodied AI.md",
+    "Reconstruct Anything/Semantic/ViLT.md",
+    "Reconstruct Anything/Semantic/MaskDINO.md",
+    "Deep Learning/CV/Instant Neural Graphics Primitives with a Multiresolution Hash Encoding.md",
+    "Reconstruct Anything/Semantic/BLIP.md",
+    "Reconstruct Anything/Semantic/ALBEF.md",
+    "Reconstruct Anything/3D-LLM.md",
+    "Reconstruct Anything/Semantic/Grounding-DINO.md",
+    "Reconstruct Anything/Semantic/CLIP多模态预训练模型.md",
+    "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
+    "Deep Learning/CV/img/Pasted image 20250508201014.png",
+    "Deep Learning/CV/img/Pasted image 20250508200906.png",
+    "Deep Learning/CV/img/Pasted image 20250508200036.png",
+    "Deep Learning/CV/img/Pasted image 20250424195826.png",
+    "Deep Learning/CV/img/Pasted image 20250506120853.png",
+    "Deep Learning/CV/img/Pasted image 20250506120920.png",
+    "Deep Learning/CV/img/Pasted image 20250508194223.png",
+    "Deep Learning/CV/img/Pasted image 20250508200012.png",
+    "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
+    "Reconstruct Anything/VLM/Pixtral 12B.md",
+    "Untitled.canvas",
+    "Reconstruct Anything/CLIP-Fields- Weakly Supervised Semantic Fields for Robotic Memory.md",
+    "Reconstruct Anything/Relation/OpenPose Using Part Affinity Fields.md",
+    "Reconstruct Anything/Relation/Visual Relationship Detection with Language Priors.md",
+    "Deep Learning/Transformer/img/Pasted image 20250505184208.png",
+    "Reconstruct Anything/VLM/img/Pasted image 20250505173736.png",
+    "Reconstruct Anything/VLM/img",
+    "Reconstruct Anything/VLM",
+    "Reconstruct Anything/Semantic/~syncthing~Semantic-SAM.md.tmp",
+    "Reconstruct Anything/MultiModal",
+    "Reconstruct Anything/有趣的小内容",
+    "Reconstruct Anything/Relation/img",
+    "Reconstruct Anything/其他解决方案",
+    "Reconstruct Anything/相近工作/img",
+    "Reconstruct Anything/相近工作",
+    "Deep Learning/Transformer/~syncthing~Attention Is All You Need.md.tmp"
   ]
 }

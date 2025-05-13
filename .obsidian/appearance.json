@@ -1,4 +1,9 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "obsidian_ia",
+  "accentColor": "#ffffff",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Comic Mono",
+  "baseFontSize": 16
 }
