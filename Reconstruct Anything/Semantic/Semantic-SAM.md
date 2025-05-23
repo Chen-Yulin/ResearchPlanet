@@ -12,6 +12,7 @@ publish: 2023 July
 ![[Pasted image 20250307140415.png]]
 
 ![[Pasted image 20250306142804.png]]
+![[2089bd4a-fd9b-4b09-a615-6b373fe38f91.png]]
 
 这片文章可以成为场景物理重建的基石之一
 类似的后续工作有OMG-Seg
