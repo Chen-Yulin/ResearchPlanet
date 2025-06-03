@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
+                "file": "论文工作流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Pyramid Networks for Object Detection"
+              "title": "论文工作流"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
+                "file": "论文工作流.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Feature Pyramid Networks for Object Detection"
+              "title": "Graph of 论文工作流"
             }
           }
         ]
@@ -226,8 +226,8 @@
   },
   "active": "21297189f2410554",
   "lastOpenFiles": [
-    "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
     "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
+    "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
     "Reconstruct Anything/Semantic/Semantic-SAM.md",
     "Reconstruct Anything/Semantic/img/2089bd4a-fd9b-4b09-a615-6b373fe38f91.png",
     "(Mindmap) Part-level Scene Understanding for Robots.md",
