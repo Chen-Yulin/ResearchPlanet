@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文工作流.md",
+                "file": "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文工作流"
+              "title": "(FCSGG) Fully Convolutional Scene Graph Generation"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "论文工作流.md",
+                "file": "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 论文工作流"
+              "title": "Graph of (FCSGG) Fully Convolutional Scene Graph Generation"
             }
           }
         ]
@@ -226,6 +226,8 @@
   },
   "active": "21297189f2410554",
   "lastOpenFiles": [
+    "Deep Learning/CV/CenterNet.md",
+    "论文工作流.md",
     "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
     "Reconstruct Anything/Relation/(FCSGG) Fully Convolutional Scene Graph Generation.md",
     "Reconstruct Anything/Semantic/Semantic-SAM.md",
@@ -251,7 +253,6 @@
     "Reconstruct Anything/Semantic/ALBEF.md",
     "Reconstruct Anything/3D-LLM.md",
     "Reconstruct Anything/Semantic/Grounding-DINO.md",
-    "Reconstruct Anything/Semantic/CLIP多模态预训练模型.md",
     "Deep Learning/CV/img/Pasted image 20250508201014.png",
     "Deep Learning/CV/img/Pasted image 20250508200906.png",
     "Deep Learning/CV/img/Pasted image 20250508200036.png",
@@ -260,7 +261,6 @@
     "Deep Learning/CV/img/Pasted image 20250506120920.png",
     "Deep Learning/CV/img/Pasted image 20250508194223.png",
     "Deep Learning/CV/img/Pasted image 20250508200012.png",
-    "Reconstruct Anything/VLM/Pixtral 12B.md",
     "Untitled.canvas",
     "Deep Learning/Transformer/img/Pasted image 20250505184208.png",
     "Reconstruct Anything/VLM/img",
