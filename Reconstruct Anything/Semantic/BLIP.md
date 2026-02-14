@@ -5,6 +5,8 @@ tags:
   - VLP
   - CLIP
   - CV
+  - Multi-modal
+  - Image-Text
 date: 2025-03-03 15:02:00
 categories: Review
 publish:

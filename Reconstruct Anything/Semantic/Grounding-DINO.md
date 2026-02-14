@@ -6,7 +6,9 @@ tags:
   - Open-Vocabulary
   - Object-Detection
   - Image-Grounding
-  - Multi-modal
+  - MultiModal
+  - Transformer
+  - Contrastive-Learning
 date: 2025-02-16 17:07:36
 categories: Review
 publish: 2024 April

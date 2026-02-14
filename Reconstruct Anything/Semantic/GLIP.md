@@ -4,6 +4,10 @@ tags:
   - VLP
   - CLIP
   - Contrastive-Learning
+  - Object-Detection
+  - Image-Grounding
+  - CV
+  - Multi-modal
 date: 2025-02-19 19:07:33
 categories: Review
 publish:

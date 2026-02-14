@@ -3,7 +3,10 @@ id: MaskDINO
 tags:
   - Segmentation
   - Semantic
-  - Multi-modal
+  - MultiModal
+  - CV
+  - Transformer
+  - Object-Detection
 date: 2025-03-06 14:23:33
 categories: Review
 publish: "2022"

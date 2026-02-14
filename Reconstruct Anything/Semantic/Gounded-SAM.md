@@ -1,6 +1,11 @@
 ---
 id: "Gounded-SAM"
-tags: 
+tags:
+  - Segmentation
+  - Object-Detection
+  - Open-Vocabulary
+  - CV
+  - Semantic
 date: "2025-02-16 17:07:30"
 categories: Review
 publish:

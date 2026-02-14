@@ -3,6 +3,7 @@ id: Large-scale visual relationship understanding
 tags:
   - Visual-Relation
   - CV
+  - Scene-graph
 date: 2025-03-13 11:41:21
 categories: Review
 publish: "2019"

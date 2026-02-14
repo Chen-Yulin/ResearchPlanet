@@ -1,8 +1,11 @@
 ---
 id: ViLT
 tags:
-  - Multi-modal
+  - MultiModal
   - Transformer
+  - Image2Text
+  - VLP
+  - CV
   - Image-Text
 date: 2025-03-04 12:03:31
 categories: Review

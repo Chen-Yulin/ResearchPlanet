@@ -2,9 +2,12 @@
 id: CLIP
 tags:
   - CV
-  - Multi-modal
-  - Image-Text
+  - MultiModal
+  - Image2Text
   - Contrastive-Learning
+  - CLIP
+  - Image-Text
+  - VLP
 date: 2025-01-06 20:12:44
 categories: Note
 ---

@@ -3,6 +3,8 @@ id: Semantic-SAM
 tags:
   - Segmentation
   - Semantic
+  - CV
+  - Hierarchical
 date: 2025-03-06 14:27:14
 categories: Review
 publish: 2023 July

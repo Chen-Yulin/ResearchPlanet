@@ -3,6 +3,10 @@ id: ConceptFusion
 tags:
   - 3D-Scene
   - Semantic
+  - Multi-modal
+  - Reconstruct
+  - CV
+  - CLIP
 date: 2025-02-17 14:59:54
 categories: Review
 publish:

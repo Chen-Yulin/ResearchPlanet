@@ -3,6 +3,8 @@ id: Pixtral 12B
 tags:
   - VLM
   - Transformer
+  - Multi-modal
+  - FoundationModel
 date: 2025-04-15 14:06:27
 categories: Review
 publish:

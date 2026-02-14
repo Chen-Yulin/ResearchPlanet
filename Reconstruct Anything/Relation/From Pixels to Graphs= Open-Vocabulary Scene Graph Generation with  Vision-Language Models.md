@@ -4,6 +4,9 @@ tags:
   - VLM
   - Open-Vocabulary
   - Scene-graph
+  - Visual-Relation
+  - CV
+  - Multi-modal
 date: 2025-03-13 12:07:26
 categories: Review
 publish: "2024"

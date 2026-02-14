@@ -4,7 +4,8 @@ tags:
   - Translation-Embedding
   - Visual-Relation
   - Scene-graph
-  - Image-Text
+  - Image2Text
+  - CV
 date: 2025-03-18 15:51:12
 categories: Review
 publish: "2017"

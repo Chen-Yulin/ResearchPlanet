@@ -1,10 +1,11 @@
 ---
 id: (UVtransE) Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation
 tags:
-  - Image-Text
+  - Image2Text
   - Visual-Relation
   - Scene-graph
   - Translation-Embedding
+  - CV
 date: 2025-03-18 16:04:44
 categories: Note
 ---

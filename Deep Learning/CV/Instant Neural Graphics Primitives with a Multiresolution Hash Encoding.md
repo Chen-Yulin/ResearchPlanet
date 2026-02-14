@@ -1,6 +1,9 @@
 ---
 id: Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
-tags: 
+tags:
+  - CV
+  - Reconstruct
+  - NN
 date: 2025-03-19 12:11:59
 categories: Review
 publish:

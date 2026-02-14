@@ -4,6 +4,7 @@ tags:
   - RNN
   - NLP
   - Gated-NN
+  - NN
 date: 2024-09-29 12:22:55
 categories: Review
 aliases:

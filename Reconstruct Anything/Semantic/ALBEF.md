@@ -1,8 +1,12 @@
 ---
 id: ALBEF
 tags:
-  - Multi-modal
+  - MultiModal
+  - Image2Text
+  - VLP
+  - CV
   - Image-Text
+  - Contrastive-Learning
 date: 2025-03-04 12:31:04
 categories: Review
 publish:

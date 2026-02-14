@@ -4,6 +4,8 @@ tags:
   - DINO
   - ViT
   - Transformer
+  - CV
+  - Representation-Learning
 date: 2025-01-09 16:28:49
 categories: Note
 ---

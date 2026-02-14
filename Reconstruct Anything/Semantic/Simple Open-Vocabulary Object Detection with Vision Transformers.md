@@ -3,6 +3,9 @@ id: Simple Open-Vocabulary Object Detection with Vision Transformers
 tags:
   - ViT
   - Open-Vocabulary
+  - Object-Detection
+  - CV
+  - Transformer
 date: 2025-01-06 14:39:38
 categories: Note
 ---

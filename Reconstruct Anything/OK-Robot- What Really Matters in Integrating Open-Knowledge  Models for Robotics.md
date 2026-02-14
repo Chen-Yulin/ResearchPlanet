@@ -8,6 +8,9 @@ tags:
   - LLM
   - Open-Vocabulary
   - Embodied-AI
+  - 3D-Scene
+  - RobotLearning
+  - CLIP
 date: 2025-01-06 13:59:55
 categories: Note
 publish: 2024 Feb

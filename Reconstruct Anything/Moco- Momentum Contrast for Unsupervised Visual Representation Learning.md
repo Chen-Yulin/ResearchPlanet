@@ -2,9 +2,11 @@
 id: Momentum Contrast for Unsupervised Visual Representation Learning
 tags:
   - Contrastive-Learning
+  - CV
+  - Representation-Learning
 date: 2025-01-09 19:48:43
 categories: Note
-aliases: 
+aliases:
 publish: "2020"
 ---
 ![[Pasted image 20250304154105.png]]

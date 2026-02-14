@@ -4,6 +4,10 @@ tags:
   - Task-Planning
   - LLM
   - Scene-graph
+  - 3D-Scene
+  - Robotics
+  - Embodied-AI
+  - Scalability
 date: 2025-03-18 19:27:31
 categories: Review
 publish:

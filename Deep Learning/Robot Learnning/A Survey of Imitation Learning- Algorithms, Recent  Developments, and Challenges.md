@@ -3,6 +3,10 @@ id: A Survey of Imitation Learning- Algorithms, Recent  Developments, and Challe
 tags:
   - Survey
   - ImitationLearning
+  - RobotLearning
+  - Robotics
+  - ML
+  - RL
 date: 2024-12-31 13:13:32
 categories: Note
 ---

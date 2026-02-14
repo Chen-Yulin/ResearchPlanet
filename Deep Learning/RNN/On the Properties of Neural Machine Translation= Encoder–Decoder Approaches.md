@@ -3,6 +3,8 @@ id: On the Properties of Neural Machine Translation= Encoder–Decoder Approache
 tags:
   - NLP
   - RNN
+  - NN
+  - Gated-NN
 date: 2024-09-27 13:19:52
 categories: Review
 aliases:

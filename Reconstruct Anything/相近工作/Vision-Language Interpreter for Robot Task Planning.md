@@ -4,6 +4,8 @@ tags:
   - VLM
   - Task-Planning
   - Robotics
+  - Multi-modal
+  - Embodied-AI
 date: 2025-04-16 14:38:13
 categories: Note
 ---

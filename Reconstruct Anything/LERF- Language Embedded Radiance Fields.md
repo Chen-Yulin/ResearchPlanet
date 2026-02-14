@@ -4,6 +4,10 @@ tags:
   - Semantic
   - LLM
   - Embodied-AI
+  - 3D-Scene
+  - CLIP
+  - CV
+  - Reconstruct
 date: 2025-01-06 16:42:43
 categories: Note
 publish: 2023 Mar

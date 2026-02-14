@@ -2,6 +2,8 @@
 id: Image Retrieval using Scene Graphs
 tags:
   - Scene-graph
+  - CV
+  - Visual-Relation
 date: 2025-03-13 12:17:16
 categories: Review
 publish:

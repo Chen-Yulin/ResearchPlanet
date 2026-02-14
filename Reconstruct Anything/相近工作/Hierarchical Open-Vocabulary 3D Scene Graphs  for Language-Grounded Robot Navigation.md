@@ -5,6 +5,9 @@ tags:
   - Visual-Relation
   - Open-Vocabulary
   - Robotics
+  - 3D-Scene
+  - Hierarchical
+  - Embodied-AI
 date: 2025-03-18 16:46:46
 categories: Review
 publish: 2024 July

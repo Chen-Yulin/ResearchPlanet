@@ -3,6 +3,9 @@ id: CLIP-Fields- Weakly Supervised Semantic Fields for Robotic Memory
 tags:
   - Semantic
   - CLIP
+  - Robotics
+  - 3D-Scene
+  - Reconstruct
 date: 2025-01-06 14:40:36
 categories: Note
 publish: 2023 May

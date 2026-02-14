@@ -5,9 +5,12 @@ tags:
   - Robotics
   - 3D-Scene
   - Embodied-AI
+  - Multi-modal
+  - VLM
+  - CLIP
 date: 2025-02-15 16:17:31
 categories: Review
-aliases: 
+aliases:
 publish: 2024 March
 ---
 ![[Pasted image 20250215153945.png]]

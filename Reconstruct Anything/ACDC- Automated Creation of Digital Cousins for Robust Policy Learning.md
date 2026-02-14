@@ -8,6 +8,8 @@ tags:
   - Real2Sim
   - DT
   - Sim2Real
+  - RobotLearning
+  - Scene-synthesis
 date: 2024-12-09 15:40:40
 categories: Review
 publish: 2024 Oct

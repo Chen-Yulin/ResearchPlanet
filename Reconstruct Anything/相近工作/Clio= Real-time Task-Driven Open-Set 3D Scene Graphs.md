@@ -5,6 +5,9 @@ tags:
   - Scene-graph
   - CLIP
   - Open-Vocabulary
+  - Robotics
+  - Task-Planning
+  - Embodied-AI
 date: 2025-03-18 16:54:35
 categories: Review
 publish:

@@ -4,6 +4,8 @@ tags:
   - LLM
   - Robotics
   - 3D-Scene
+  - Multi-modal
+  - Embodied-AI
 date: 2025-02-13 14:05:05
 categories: Review
 aliases: []

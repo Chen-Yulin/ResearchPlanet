@@ -4,6 +4,8 @@ tags:
   - Segmentation
   - CV
   - Reconstruct
+  - Hierarchical
+  - Semantic
 date: 2024-12-09 14:46:45
 categories: Review
 ---

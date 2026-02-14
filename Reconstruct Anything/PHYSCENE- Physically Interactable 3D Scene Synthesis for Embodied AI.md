@@ -2,9 +2,10 @@
 id: PHYSCENE- Physically Interactable 3D Scene Synthesis for Embodied AI
 tags:
   - Scene-synthesis
-  - Diffusion
+  - DiffusionModel
   - Physical-Scene
   - Embodied-AI
+  - 3D-Scene
 date: 2025-03-11 19:46:24
 categories: Review
 publish: "2024"

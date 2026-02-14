@@ -3,6 +3,7 @@ id: AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
 tags:
   - ViT
   - Transformer
+  - CV
 date: 2025-01-09 16:18:40
 categories: Note
 ---

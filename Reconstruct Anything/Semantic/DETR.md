@@ -3,6 +3,7 @@ id: DETR
 tags:
   - Object-Detection
   - Transformer
+  - CV
 date: 2025-03-11 16:15:11
 categories: Review
 publish: "2020"

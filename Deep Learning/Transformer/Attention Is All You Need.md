@@ -3,6 +3,8 @@ id: Attention Is All You Need
 tags:
   - Transformer
   - NLP
+  - NN
+  - ML
 date: 2024-09-27 12:56:33
 categories: Review
 aliases:
