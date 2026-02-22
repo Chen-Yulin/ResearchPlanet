@@ -32,9 +32,19 @@
               "icon": "lucide-file",
               "title": "exist_label"
             }
+          },
+          {
+            "id": "ade3c7ec1192d95c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exist_label.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of exist_label"
+              "title": "Graph view"
             }
           }
         ]
@@ -237,7 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ab831307b24b4b",
+  "active": "ade3c7ec1192d95c",
   "lastOpenFiles": [
     "World Model/奠定世界模型= Intelligence without representation.md",
     "exist_label.md",
