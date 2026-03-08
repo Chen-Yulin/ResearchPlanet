@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/CV/Diffusion-Transformers-DiT.md",
+                "file": "Deep Learning/BAGEL-Unified-Multimodal-Pretraining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffusion-Transformers-DiT"
+              "title": "BAGEL-Unified-Multimodal-Pretraining"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AdaLN",
+                "query": "tag:ImgGen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "40b5e366a89df436",
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deep Learning/CV/Diffusion-Transformers-DiT.md",
+                "file": "Deep Learning/BAGEL-Unified-Multimodal-Pretraining.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,15 +143,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Diffusion-Transformers-DiT"
+              "title": "Graph of BAGEL-Unified-Multimodal-Pretraining"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.0026054382324,
-    "collapsed": true
+    "width": 295.0026054382324
   },
   "right": {
     "id": "8ad0bb42bca3938d",
@@ -255,9 +253,16 @@
   },
   "active": "ade3c7ec1192d95c",
   "lastOpenFiles": [
-    "Deep Learning/CV/UniDiffuser-One-Transformer-Fits-All-Distributions.md",
-    "Deep Learning/LingBot-VLA.md",
+    "Deep Learning/Robot Learnning/VQ-VAE-and-Latent-Action-for-Robotics.md",
+    "Deep Learning/Robot Learnning/AR2-D2 -- Training a Robot Without a Robot.md",
+    "Deep Learning/Robot Learnning/One-Shot Visual Imitation Learning via Meta-Learning.md",
     "Deep Learning/BAGEL-Unified-Multimodal-Pretraining.md",
+    "Deep Learning/Transformer/Mixture-of-Experts-Survey.md",
+    "Deep Learning/Transformer/Attention Is All You Need.md",
+    "Deep Learning/LingBot-VLA.md",
+    "Deep Learning/Robot Learnning/A Survey of Imitation Learning- Algorithms, Recent  Developments, and Challenges.md",
+    "Deep Learning/CV/Diffusion-Transformers-DiT.md",
+    "Deep Learning/CV/UniDiffuser-One-Transformer-Fits-All-Distributions.md",
     "World Model/奠定世界模型= Intelligence without representation.md",
     "exist_label.md",
     "HRI/Human-robot interaction for robotic manipulator programming in  Mixed Reality.md.tmp.10011.1770282775118",
@@ -272,19 +277,12 @@
     "Deep Learning/Transformer/Attention Is All You Need.md.tmp.10011.1770282708256",
     "World Model/DREAM TO CONTROL= LEARNING BEHAVIORS  BY LATENT IMAGINATION.md",
     "Deep Learning/CV/Associative Embedding= End-to-End Learning for Joint Detection and Grouping.md",
-    "Deep Learning/CV/Diffusion-Transformers-DiT.md",
     "Deep Learning/CV/Feature Pyramid Networks for Object Detection.md",
     "Deep Learning/CV/CenterNet.md",
     "Deep Learning/Robot Learnning/GR00T-N1-Humanoid-Robot-Foundation-Model.md",
-    "Deep Learning/Transformer/Mixture-of-Experts-Survey.md",
-    "Deep Learning/Transformer/Attention Is All You Need.md",
-    "Deep Learning/Robot Learnning/VQ-VAE-and-Latent-Action-for-Robotics.md",
-    "Deep Learning/Robot Learnning/One-Shot Visual Imitation Learning via Meta-Learning.md",
     "Deep Learning/RNN/Long Short-Term Memory.md",
     "Deep Learning/RNN/Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.md",
     "Deep Learning/img/Pasted image 20260205155618.png",
-    "Deep Learning/Robot Learnning/A Survey of Imitation Learning- Algorithms, Recent  Developments, and Challenges.md",
-    "Deep Learning/Robot Learnning/AR2-D2 -- Training a Robot Without a Robot.md",
     "Deep Learning/Transformer/img/Pasted image 20260205143818.png",
     "Deep Learning/Transformer/img/Pasted image 20260205143754.png",
     "Pasted image 20260203153540.png",
