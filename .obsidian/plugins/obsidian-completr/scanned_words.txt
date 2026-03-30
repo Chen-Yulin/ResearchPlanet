@@ -595,6 +595,7 @@ iPi
 iJP
 ilZ
 ikh
+interference
 DINO
 DI
 Detic
@@ -1760,6 +1761,7 @@ tWk
 tokenizer
 torch
 technical
+texts
 ViT
 Vision
 Vocabulary
@@ -2295,6 +2297,7 @@ VhV
 VkuuuCC
 VZZj
 Vet
+VQVAE
 Transformer
 Transformers
 These
@@ -2845,6 +2848,7 @@ TSi
 Trb
 Tedxg
 Transfusion
+They
 date
 dream
 drop
@@ -3424,6 +3428,9 @@ divide
 duw
 dJv
 dev
+differs
+dual
+dradient
 categories
 community
 camera
@@ -3993,6 +4000,7 @@ cMs
 conquer
 chunk
 compile
+continuous
 Note
 NO
 No
@@ -4470,6 +4478,7 @@ NLLB
 NjxY
 NUTTTTT
 Noised
+Nov
 publish
 purpose
 primitives
@@ -5560,6 +5569,7 @@ External
 Entropy
 Edit
 Esser
+Early
 Properties
 Pick
 Provide
@@ -7772,6 +7782,8 @@ sMSS
 sHGw
 sOi
 samples
+shared
+streamd
 hard
 has
 homes
@@ -10951,6 +10963,8 @@ MathVista
 MMVP
 Medium
 MetaQuery
+MotionGPT
+MotionGeneration
 Integrating
 Intro
 Instant
@@ -14610,6 +14624,7 @@ rZk
 rewriter
 reduction
 report
+reconstruct
 been
 build
 broken
@@ -17132,6 +17147,7 @@ wuD
 wmBB
 wzp
 wyv
+while
 environment
 embedding
 embeding
@@ -17730,6 +17746,7 @@ eOT
 episode
 evaluating
 embodied
+exist
 vocabulary
 video
 vector
@@ -18693,6 +18710,7 @@ noa
 nuHGD
 npV
 ngj
+next
 memory
 mask
 module
@@ -19215,6 +19233,7 @@ mjN
 mVh
 mZDDDFF
 modeling
+mismatch
 Querying
 QAM
 QQ
@@ -19751,6 +19770,7 @@ QVb
 Qxm
 Qwen
 Qinglong
+Quantized
 query
 qa
 qy
