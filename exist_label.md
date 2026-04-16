@@ -32,6 +32,8 @@ LLM
 LatentAction
 ML
 MoE
+MoT
+MotionGeneration
 MR/AR
 Message-Passing
 Multi-modal
